@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
         Vector3 moveDirection = cameraRight * input.x + cameraForward * input.y;
 
         // Apply movement
-        rb.AddForce(moveDirection * movementSpeed);
+        rb.AddForce(moveDirection * movementSpeed * Time.deltaTime);
     }
 
     void Jump()
