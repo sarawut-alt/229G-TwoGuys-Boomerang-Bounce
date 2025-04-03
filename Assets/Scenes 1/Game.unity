@@ -2666,7 +2666,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e59ff1cd66d12174583ac6565f112dba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 10
+  movementSpeed: 500
   jumpHeight: 2
   mainCamera2: {fileID: 2029380369}
   projectilePrefab: {fileID: 5426709884880799854, guid: 5fa0a50822fce8f44aefc85375be7e84, type: 3}
@@ -2873,7 +2873,7 @@ PrefabInstance:
       objectReference: {fileID: 330585545}
     - target: {fileID: 4505829573530442668, guid: 8f557da4f73d5d74a8d694dbe47f101f, type: 3}
       propertyPath: movementSpeed
-      value: 10
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 4505829573530442668, guid: 8f557da4f73d5d74a8d694dbe47f101f, type: 3}
       propertyPath: projectilePrefab
