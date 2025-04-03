@@ -483,7 +483,7 @@
                 {
                     "name": "",
                     "id": "eb40bb66-4559-4dfa-9a2f-820438abb426",
-                    "path": "<Keyboard>/numpadEnter",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
@@ -516,7 +516,7 @@
                 {
                     "name": "",
                     "id": "7625a3ff-ef83-47fc-aa8b-a878ab99ba6f",
-                    "path": "<Keyboard>/space",
+                    "path": "<Keyboard>/numpadEnter",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
